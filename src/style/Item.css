@@ -1,0 +1,26 @@
+.item{
+  height: 80px;
+  display: table;
+}
+.desc{
+  text-align: center;
+  vertical-align: middle;
+  display: table-cell;
+  width: 100%;
+}
+.sidx {
+  width: 5%;
+}
+.simage {
+  width: 20%;
+}
+img{
+  width: 80px;
+  height: 80px;
+}
+.stitle {
+  width: 45%;
+}
+.singer {
+  width: 30%;
+}

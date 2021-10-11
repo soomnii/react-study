@@ -1,0 +1,23 @@
+.Header {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+button.backBtn {
+  margin-left: 10px;
+  border: none;
+  background: url('../left-arrow.png') no-repeat;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  height: 20px;
+  width: 20px;
+}
+
+.title{
+  font-size : 25px;
+}
+
+.back{
+  margin-left: 30px;
+}
